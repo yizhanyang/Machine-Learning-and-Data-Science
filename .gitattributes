@@ -1,0 +1,2 @@
+sc.csv filter=lfs diff=lfs merge=lfs -text
+ca.csv filter=lfs diff=lfs merge=lfs -text
