@@ -13,3 +13,14 @@ Throughout the Repository, several essential algorithms are implemented with Han
 [Satimage](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/blob/master/dataset/st.csv)  
 [Scene15](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/blob/master/dataset/sc.csv)  
 [Caltech101](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/blob/master/dataset/ca.csv)  
+
+## The Algorithms
+* Regularized Linear Regression
+* Gaussian Kernel Regression
+* Gaussian Process
+* Support Vector Machine
+* Extrme Learning Machine
+* Sparse Representation
+* Image De-noising Using Markov Random Field
+* Image De-noising Using the SP/MS Algorithm
+* EM Mixture Model
