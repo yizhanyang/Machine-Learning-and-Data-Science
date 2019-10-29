@@ -1,7 +1,7 @@
 # Machine-Learning-and-Data-Science
 Applications of algorithoms in Bishop's PRML book.
 In computer vision, object recognition is a standard machine learning problem with high impact.  
-Throughout the Repository, several essential algorithms are implemented with Handwriting Code in Matlab. Algorithms are applied to several datasets. The level of complexity of the algorithms are compared, and issues of the algorithms are discussed. The databases are mentioned in [The Data](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/blob/master/README.md#the-data).
+Throughout the Repository, several essential algorithms are implemented with Handwriting Code in Matlab. Algorithms are applied to several datasets. The level of complexity of the algorithms are compared, and issues of the algorithms are discussed. The databases are mentioned in [The Data](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/blob/master/README.md#the-data). The Project report can be find [here]().
 
 ## The Paper
 [SSFN: Self Size-estimating Feed-forward Network and Low Complexity Design](https://arxiv.org/abs/1905.07111)
@@ -23,4 +23,10 @@ Throughout the Repository, several essential algorithms are implemented with Han
 * Sparse Representation
 * Image De-noising Using Markov Random Field
 * Image De-noising Using the SP/MS Algorithm
-* EM Mixture Model
+* EM Mixture Model  
+Each algorithm is evaluated using multi-fold crossvalidaton.
+For the simple version of the algorithms tested on 1 dimentional data, please check [here]().  
+For the training code and testing code, see [here]().  
+
+## The Report
+
