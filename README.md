@@ -31,5 +31,6 @@ For the training code and testing code on real datasets, see [here](https://gith
 
 ## The Project Report
 * [Machine Learning and Data Science Report](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/blob/master/MLDS_REPORT.pdf)  
+  
 The report is implemented with Latex. For the overleaf source code, email yizhan@kth.se.
 
