@@ -26,8 +26,8 @@ Throughout the Repository, several essential algorithms are implemented with Han
 * EM Mixture Model  
   
 Each algorithm is evaluated using multi-fold crossvalidaton in the final report, and optimal regularization constants were found.
-For the simple version of the algorithms tested on 1 dimentional data, please check [here](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/blob/master/main.m).  
-For the training code and testing code on real datasets, see [here](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/tree/master/main).  
+For the simple version of the algorithms tested on `1 dimentional data`, please check [here](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/blob/master/main.m).  
+For the training code and testing code on `real datasets`, see [here](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/tree/master/main).  
 
 ## The Project Report
 * [Machine Learning and Data Science Report](https://github.com/yizhanyang/Machine-Learning-and-Data-Science/blob/master/MLDS_REPORT.pdf)  
